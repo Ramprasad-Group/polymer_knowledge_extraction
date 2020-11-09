@@ -1,0 +1,35 @@
+Col_1,Col_2
+lc,liquid crystal
+sem,scanning electron microscopy
+tem,transmission electron microscopy
+nlc,nematic liquid crystal
+clc,cholesteric liquid crystal
+ms,mass spectroscopy
+dft,density functional theory
+kmc,kinetic monte carlo
+gc,gas chromatography
+lda,local density approximation
+gga,generalized gradient approximation
+md,molecular dynamics
+sls,static light scattering
+dls,dynamic light scattering
+xps,x-ray photoelectron spectroscopy
+edx,energy dispersive x-ray spectroscopy
+saxs,small-angle x-ray scattering
+waxs,wide-angle x-ray scattering
+waxd,wide-angle x-ray diffraction
+xrd,x-ray diffraction
+pals,positron annihilation lifetime spectroscopy
+tddft,time-dependent density functional theory
+hplc,high performance liquid chromatography
+pdi,polydispersity index
+tg,glass transition temperature
+tm,melting temperature
+tc,crystallization temperature
+fib,focused ion beam
+ea,activation energy
+ip,ionization potential
+icp,inductively coupled plasma
+oes,optical emission spectroscopy
+xrf,x-ray fluorescence
+epma,electron probe microanalysis
