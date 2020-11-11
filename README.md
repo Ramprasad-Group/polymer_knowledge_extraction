@@ -12,6 +12,6 @@ data/analogies\_dataset/analogy\_plot_entries.csv - Contains the analogies used 
 
 data/polymer_datasets - contains the analogy pairs for each task in Table 1 of the paper
 
-##References
+## References
 
 [1] Weston, Leigh, et al. "Named entity recognition and normalization applied to large-scale information extraction from the materials science literature." Journal of chemical information and modeling 59.9 (2019): 3692-3702.
