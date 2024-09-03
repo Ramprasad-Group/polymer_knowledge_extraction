@@ -1,5 +1,7 @@
 # Automated knowledge extraction from polymer literature
 
+# IMPORTANT NOTE: The code and data shared here is available for academic non-commercial use only
+
 This repo contains starter code and data for the paper 'Automated knowledge extraction from polymer literature using Natural Language Processing' [1](https://www.sciencedirect.com/science/article/pii/S2589004220311196). If you use the code or data in this repo, please cite the paper using the bibtex reference below.
 
 ```
